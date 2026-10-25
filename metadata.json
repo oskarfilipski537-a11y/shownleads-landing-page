@@ -1,0 +1,8 @@
+{
+  "name": "ShownLeads - Pay Per Shown Appointment (PPSA) Agency",
+  "description": "Performance-based appointment generation for US home-service contractors. Pay Per Shown Appointment (PPSA) model tying fees to qualifying appointments that actually show up.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
